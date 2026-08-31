@@ -1,4 +1,4 @@
-json{
+{
   "motor|block": "motor",
   "motor.MotorList.M1|block": "M1",
   "motor.MotorList.M2|block": "M2",
