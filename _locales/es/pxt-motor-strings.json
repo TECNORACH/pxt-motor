@@ -1,0 +1,9 @@
+json{
+  "motor|block": "motor",
+  "motor.MotorList.M1|block": "M1",
+  "motor.MotorList.M2|block": "M2",
+  "motor.DirectionList.CW|block": "sentido horario",
+  "motor.DirectionList.CCW|block": "sentido antihorario",
+  "motor.motorRun|block": "motor %motor arrancar %dir velocidad %speed",
+  "motor.motorStop|block": "motor %motor detener"
+}
